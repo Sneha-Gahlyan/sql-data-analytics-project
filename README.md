@@ -12,7 +12,6 @@ This project is licensed under the MIT License. You are free to use, modify, and
 this project with proper attribution.
 
 🌟 About Me
-# 👩‍💻 About Me
 
 I'm **Sneha Gahlyan**, a Computer Science student passionate about Data Analytics and Business Intelligence.
 
